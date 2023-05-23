@@ -8,8 +8,6 @@ Template for starting a frontend project.
 
 ## Badges
 
-[![MIT License](https://img.shields.io/github/license/RodriguezTheo/template-react-ts-frontend?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
-
 [![REPO SIZE](https://img.shields.io/github/repo-size/RodriguezTheo/template-react-ts-frontend?style=for-the-badge)](https://github.com/RodriguezTheo/template-react-ts-frontend)
 
 ## Installation
